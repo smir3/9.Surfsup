@@ -7,4 +7,4 @@ Task delvierable:
 Specifically, W. Avy wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round. This analysis will compare the temperature data between these months, as well as provide recommendations for any additional analysis which would be useful to perform.
 
 Results
-
+![](June%20temps.PNG)
